@@ -1,6 +1,14 @@
 *{
      font-family: cursive;
 }
+#navbarSupportedContent
+{
+    margin-left:-16px;
+    margin-right:-16px;
+    margin-bottom:-10px;
+    
+    
+}
 
 .navbar-brand{
     margin-bottom: 20px;
@@ -12,6 +20,7 @@
     margin-top:20px;
     font-size: 150%;
 }
+
 nav{
     background-color: grey;
     border:2px solid black;
@@ -21,12 +30,16 @@ nav{
     position:relative;
     background-color: grey;
     border:1px solid black;
-    padding:40px;
-    margin-left:2px;
-    margin-right: 2px;
+    padding:30px;
+    margin-left:20px;
+    margin-right: 5px;
     margin-bottom: 10px;
     height:1000px;
+    overflow: hidden;
 }
+
+
+
 #p1, #p2, #p3{
     position: absolute;
     top:0;
