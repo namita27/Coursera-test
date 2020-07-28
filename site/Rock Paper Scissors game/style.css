@@ -1,0 +1,23 @@
+*{
+    text-align: center;
+    background-color: palegreen;
+    font-family: monospace;
+}
+button{
+    margin-top: 20px;
+    height:30px;
+    width:80px;
+    background-color: lightpink;
+}
+#score, #Player{
+    margin-top: 20px;
+}
+body{
+  width: 50%;
+  height:50%;
+  border: 15px solid green;
+  padding: 50px;
+  margin-top: 120px;
+  margin-left: 220px;
+
+}
